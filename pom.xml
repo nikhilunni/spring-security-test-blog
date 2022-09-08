@@ -64,19 +64,19 @@
     <dependency>
       <groupId>org.springframework.security</groupId>
       <artifactId>spring-security-core</artifactId>
-      <version>4.0.0.M1</version>
+      <version>5.5.7</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.springframework.security</groupId>
       <artifactId>spring-security-web</artifactId>
-      <version>4.0.0.M1</version>
+      <version>5.5.7</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
         <groupId>org.springframework.security</groupId>
         <artifactId>spring-security-config</artifactId>
-        <version>4.0.0.M1</version>
+        <version>5.5.7</version>
     </dependency>
     <dependency>
         <groupId>commons-logging</groupId>
@@ -87,7 +87,7 @@
     <dependency>
         <groupId>org.springframework</groupId>
         <artifactId>spring-webmvc</artifactId>
-        <version>4.0.2.RELEASE</version>
+        <version>5.2.22.RELEASE</version>
     </dependency>
 
      <dependency>
@@ -129,7 +129,7 @@
     <dependency>
       <groupId>org.springframework.security</groupId>
       <artifactId>spring-security-web</artifactId>
-      <version>4.0.0.M1</version>
+      <version>5.5.7</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -147,7 +147,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-context</artifactId>
-      <version>4.0.2.RELEASE</version>
+      <version>5.2.22.RELEASE</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -159,7 +159,7 @@
     <dependency>
       <groupId>org.thymeleaf</groupId>
       <artifactId>thymeleaf</artifactId>
-      <version>2.1.2.RELEASE</version>
+      <version>3.0.0.RELEASE</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -195,7 +195,7 @@
     <dependency>
       <groupId>org.hibernate</groupId>
       <artifactId>hibernate-validator</artifactId>
-      <version>4.1.0.Final</version>
+      <version>6.0.23.Final</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -219,31 +219,31 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>4.0.2.RELEASE</version>
+      <version>5.2.22.RELEASE</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-tx</artifactId>
-      <version>4.0.2.RELEASE</version>
+      <version>5.2.22.RELEASE</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.springframework.data</groupId>
       <artifactId>spring-data-jpa</artifactId>
-      <version>1.5.1.RELEASE</version>
+      <version>2.6.5</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.springframework.security</groupId>
       <artifactId>spring-security-config</artifactId>
-      <version>4.0.0.M1</version>
+      <version>5.5.7</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.hibernate</groupId>
       <artifactId>hibernate-entitymanager</artifactId>
-      <version>4.3.4.Final</version>
+      <version>5.4.24.Final</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
